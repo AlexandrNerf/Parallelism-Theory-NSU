@@ -1,0 +1,10 @@
+all: lab2 task2 task1
+
+lab2: lab2.cpp
+	g++ lab2.cpp -fopenmp -o lab2
+
+task2: task2.c
+	gcc lab2.c -fopenmp -o task2
+
+task1: task1.c
+	gcc lab1.c -fopenmp -o task1
