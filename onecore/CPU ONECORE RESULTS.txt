@@ -1,0 +1,5 @@
+1024: xxx, 79k iterations
+512: 71.3, 70,1k iterations
+256: 10.27, 43k iterations
+128: 1.8, 22k iterations
+acc: 0.000001
